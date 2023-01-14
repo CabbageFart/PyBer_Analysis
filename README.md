@@ -14,8 +14,8 @@ As you can see, the farther away from urban centers you get the less rides becom
 Urban is king! And this chart shows that beautifully. In this very samll sample size we are working with we see that Rural is very steady between 0-500, but both Suburban and Urban have a slightly higher variance at approx 700. 
 
 ## Summary
-1) The study needs to be increased to incorporate the entire year broken up into quarters. Then the same thing done to the      two years previous so you can compare quarters, semi-annuals, and annuals.
-2) This expanded data set will allow you to see if the Total Rides/Drivers increase/decrease and at what rate in the Suburban    and Rural areas. With that you will be able to determine if you need more drivers in that area or more education. 
-      Do people stop using the service because there are no drivers?
-      Do people not use that service because they do not know the benefits? 
-3) When looking at the line graph above we see a peak in all three areas at the end of February. What happenned at that          point? Sporting event? Concert? Looking at several years of data to see if there any other significant peaks you will be      able to prepare your advertising campaign based on upcoming events.
+1) The study needs to be increased to incorporate the entire year and the two years previous in order to recognise any trends.
+2) This will allow you to notice if the amount of drivers and rides either increase or decrease in the Suburban/Rural city types. With that you will be able to determine    if you need more drivers in that area or more education. 
+     * Do people stop using the service because there are no drivers?
+     * Do people not use that service because they do not know the benefits? 
+3) When looking at the line graph above we see a peak in all three areas at the end of February. What happenned at that point? Sporting event? Concert? Looking at          several years of data to see if there any other significant peaks you will be able to prepare your advertising campaign based on upcoming events.
